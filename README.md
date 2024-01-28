@@ -1,1 +1,1 @@
-# RemindMe---Mobile-App-
+# RemindMe-Mobile Application
